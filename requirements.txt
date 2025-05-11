@@ -1,0 +1,10 @@
+flask
+flask-cors
+beautifulsoup4
+bs4
+selenium
+chromadb
+sentence-transformers
+requests
+google-generativeai
+streamlit
